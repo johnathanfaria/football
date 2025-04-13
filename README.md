@@ -1,7 +1,7 @@
 Data-Driven Football Analysis: Uncovering the True Impact of the Top 20 Footballers
 Overview
 In today's era of data science and advanced analytics, traditional football metrics like goals and assists are complemented by a deeper understanding of a player's contribution to the game. This project leverages Python, Pandas, and Matplotlib to perform a detailed analysis of the top 20 footballers of this century, focusing on their goals + assists per game ratio. This metric provides a comprehensive view of player performance by combining their scoring and playmaking abilities.
-
+ 
 Analysis Highlights
 1. The Messi Benchmark: The Undisputed G.O.A.T.
 Lionel Messi leads the analysis with a remarkable goals + assists per game ratio exceeding 1.
